@@ -62,8 +62,7 @@ Check out the demos 👇🏼
 ### Installation
 1. Clone the repository & get into the project directory
     ```sh
-    git clone https://github.com/tezansahu/ai-garage.git
-    cd ai-garage/data-analyst-agent-autogen
+    git clone https://github.com/AnjithKrishna7/data-analyst-agent.git
     ```
 
 2. Create and activate a virtual environment using `uv`:
