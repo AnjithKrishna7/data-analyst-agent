@@ -7,9 +7,9 @@ A powerful multi-agent system built with AutoGen 0.4 that provides automated dat
 
 Check out the demos 👇🏼
 
-[![Data Analyst Agent - Demo 1](./assets/demo-1.png)](https://youtu.be/Gml54d2FBm0)
+[![Data Analyst Agent - Demo 1](./assets/demo-1.png)]
 
-[![Data Analyst Agent - Demo 2](./assets/demo-2.png)](https://youtu.be/aVxbSUrsEq4)
+[![Data Analyst Agent - Demo 2](./assets/demo-2.png)]
 
 ## Features
 
